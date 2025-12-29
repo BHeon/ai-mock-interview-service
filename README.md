@@ -102,7 +102,7 @@
 ## 🔹 실행 방법
 
 ### Backend
-```bash
+bash
 ./gradlew bootRun
 
 ### Frontend
