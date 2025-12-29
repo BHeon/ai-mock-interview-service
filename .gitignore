@@ -1,0 +1,25 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Backend (추가 안전장치)
+backend/.gradle/
+backend/build/
+backend/out/
+backend/target/
+backend/src/main/resources/application.yml
+backend/src/main/resources/application.properties
+backend/src/main/resources/application-*.yml
+backend/src/main/resources/application-*.properties
+
+# Frontend (추가 안전장치)
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+frontend/.env.*
