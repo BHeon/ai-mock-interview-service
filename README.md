@@ -86,15 +86,12 @@
 ---
 
 ## 🔹 프로젝트 구조
-.
+.ai-interview-platform-public
 ├── backend
 │ └── Spring Boot 기반 서버
 ├── frontend
 │ └── React 기반 클라이언트
-└── docs
-├── flowchart
-├── erd
-└── ppt
+└── README.md
 
 
 ---
